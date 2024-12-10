@@ -10,6 +10,7 @@ Dr. Fabio Santos
 This repository contains the codebase and supplementary material for our final project. The goal was to explore two RL approaches for playing Connect-4: MCTS and DQNs.
 
 # Contents
-- Codebase for MCTS and DQN
+- Codebase for MCTS 
+- Codebase for DQN: We only uploaded two versions of the file which shows two of our tests. We do not upload all the files we ran for all the results we discussed in our paper. 
 - Jupyter Notebooks showcasing our research
 - Supplementary materials (images, etc).
