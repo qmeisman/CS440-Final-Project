@@ -11,6 +11,6 @@ This repository contains the codebase and supplementary material for our final p
 
 # Contents
 - Codebase for MCTS 
-- Codebase for DQN: We only uploaded two versions of the file which shows two of our tests. We do not upload all the files we ran for all the results we discussed in our paper. 
+- Codebase for DQN: We only uploaded two versions of the file which shows two of our tests. The way we had to run our code for testing different hyperparameters was through creating a duplicate file and making slight alterations. As such we do not upload all the files we ran for all the results we discussed in our paper.
 - Jupyter Notebooks showcasing our research
 - Supplementary materials (images, etc).
